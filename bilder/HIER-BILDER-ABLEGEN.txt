@@ -1,0 +1,22 @@
+Gebhardt Karriereseite – Bilder
+===============================
+
+Bildmaterial einfach in DIESEN Ordner (bilder/) hochladen – Dateinamen egal.
+Die Zuordnung (Hero je Stelle, Creatives) wird danach im Code eingetragen.
+
+Bereits vorhanden:
+  gebhardt-logo-original.jpg  -> Original-Logo, unverändert
+  gebhardt-logo.png           -> dasselbe Logo, nur Weißrand beschnitten und
+                                 für die Website verkleinert
+
+Für die Seite vorgesehen (werden automatisch geladen, sobald sie existieren):
+  hero.jpg                -> allgemeines Hero-Bild (ohne ?stelle=)
+  hero-dreher.jpg         -> bei ?stelle=dreher
+  hero-rundschleifer.jpg  -> bei ?stelle=rundschleifer
+  (Querformat, mind. ~1600 px breit, Motiv eher RECHTS – links liegt der Text.
+   Fehlt ein Bild, bleibt der blaugraue Verlauf stehen – nichts geht kaputt.)
+
+Ideal für die Creatives: Fotos von Drehbank/Lünette, Rundschleifmaschine,
+Walzen/Wellen, Messen mit Mikrometer, Werkstatt und Team – gern hochkant UND quer.
+
+Diese .txt kann nach dem Hochladen gelöscht werden.
